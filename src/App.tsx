@@ -16,6 +16,7 @@ function App() {
       </Routes>
     </div>
   );
+  //this will be a note website with backend etc.
 }
 
 export default App;
