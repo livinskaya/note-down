@@ -17,6 +17,7 @@ function App() {
     </div>
   );
   //this will be a note website with backend etc.
+  //It has to been done on the 20.10 this year
 }
 
 export default App;
