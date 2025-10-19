@@ -19,6 +19,7 @@ function App() {
   //this will be a note website with backend etc.
   //It has to been done on the 20.10 this year
   //If i dont hit it, i have so programm through the night from 20 to 21
+  // TOMMOOORRRRROOW WILLLL BE THE DAY
 }
 
 export default App;
