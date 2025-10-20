@@ -21,6 +21,7 @@ function App() {
   //If i dont hit it, i have so programm through the night from 20 to 21
   // TOMMOOORRRRROOW WILLLL BE THE DAY
   //enten style with my new LOGOOOO
+  //I TRY TO GET IT TOMORROW DONE, BRAIN IS DOWN AFTER THE DAY
 }
 
 export default App;
