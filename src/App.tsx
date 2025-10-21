@@ -23,6 +23,7 @@ function App() {
   //enten style with my new LOGOOOO
   //I TRY TO GET IT TOMORROW DONE, BRAIN IS DOWN AFTER THE DAY
   //to tired again..
+  //BUUUT i got the design color theme already done. It will look fantasticc
 }
 
 export default App;
