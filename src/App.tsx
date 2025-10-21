@@ -22,6 +22,7 @@ function App() {
   // TOMMOOORRRRROOW WILLLL BE THE DAY
   //enten style with my new LOGOOOO
   //I TRY TO GET IT TOMORROW DONE, BRAIN IS DOWN AFTER THE DAY
+  //to tired again..
 }
 
 export default App;
