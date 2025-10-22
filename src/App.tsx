@@ -26,6 +26,7 @@ function App() {
   //BUUUT i got the design color theme already done. It will look fantasticc
   //i have a lot of free time in the next days, so i get it done to 100% the following day. Buuuutt i have to learn aswell i wanna try out to programm a app, already wrote it down what type it gonna be
   // fr this time 23. ist will be "finished"
+  //LETS TRY IT OR BETTER JUST DO IT
 }
 
 export default App;
