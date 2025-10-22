@@ -24,7 +24,7 @@ function App() {
   //I TRY TO GET IT TOMORROW DONE, BRAIN IS DOWN AFTER THE DAY
   //to tired again..
   //BUUUT i got the design color theme already done. It will look fantasticc
-  //i have a lot of free time in the next days, so i get it done to 100% the following day. Buuuutt i have to learn aswell
+  //i have a lot of free time in the next days, so i get it done to 100% the following day. Buuuutt i have to learn aswell i wanna try out to programm a app, already wrote it down what type it gonna be
 }
 
 export default App;
