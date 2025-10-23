@@ -16,17 +16,6 @@ function App() {
       </Routes>
     </div>
   );
-  //this will be a note website with backend etc.
-  //It has to been done on the 20.10 this year
-  //If i dont hit it, i have so programm through the night from 20 to 21
-  // TOMMOOORRRRROOW WILLLL BE THE DAY
-  //enten style with my new LOGOOOO
-  //I TRY TO GET IT TOMORROW DONE, BRAIN IS DOWN AFTER THE DAY
-  //to tired again..
-  //BUUUT i got the design color theme already done. It will look fantasticc
-  //i have a lot of free time in the next days, so i get it done to 100% the following day. Buuuutt i have to learn aswell i wanna try out to programm a app, already wrote it down what type it gonna be
-  // fr this time 23. ist will be "finished"
-  //LETS TRY IT OR BETTER JUST DO IT
 }
 
 export default App;
