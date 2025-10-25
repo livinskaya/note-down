@@ -12,3 +12,4 @@ export const NoteFrom = () => {
 
 //coooooledown
 //hohi
+//HEHEHHEHE
