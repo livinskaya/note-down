@@ -13,3 +13,4 @@ export const NoteFrom = () => {
 //coooooledown
 //hohi
 //HEHEHHEHE
+//LOL RoFL
