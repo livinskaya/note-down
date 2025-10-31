@@ -10,7 +10,7 @@ export const NoteFrom = () => {
 };
 //22test
 //hehhe
-//coooooledown
+//coooooled jj own
 //hohi
 //HEHEHHEHE
 //LOL RoFL
